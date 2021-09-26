@@ -1,5 +1,4 @@
-# Lenovo-M710q-QNCT-DW1560-Hackintosh
-EFI for Lenovo-M720Q 10T8
+# EFI for Lenovo-M720Q 10T8
 macOS 11.2.3 (Updated to 11.6) 
 
 ### Spec:
