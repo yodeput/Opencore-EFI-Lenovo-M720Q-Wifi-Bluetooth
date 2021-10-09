@@ -14,7 +14,7 @@
 | SMBIOS           | iMac20,2                             |
 | BootLoader       | OpenCore 0.7.4                         |
 ---
-###Version 2
+### Version 2
 
 **Changelog** 
 - **Opencore** 0.7.3 -> 0.7.4
@@ -31,7 +31,8 @@
 - [x] WiFi using [itlwm](https://github.com/OpenIntelWireless/itlwm) and [Heliport WiFi Client for itlwm](https://github.com/OpenIntelWireless/HeliPort)
 - [x] Sensors
 ----
-###Version 1
+### Version 1
+
 **Working HW**
 - [x] HDMI Output
 - [x] ALC294 & DP Audio Output
@@ -48,7 +49,7 @@
 <img src="https://github.com/yodeput/Opencore-EFI-Lenovo-M720Q/blob/main/ss/Screen%20Shot%202021-10-09%20at%2017.07.56.png?raw=true"/>
 
 ---
-###Thanks to:
+## Thanks to:
 - APPLE
 - LENOVO
 - [OPENCORE](https://dortania.github.io/docs/)
