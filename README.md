@@ -1,4 +1,4 @@
-# EFI for Lenovo-M720Q 10T8 Working WiFi
+# EFI for Lenovo-M720Q 10T8 Working WiFi & Bluetooth
 
 ### Spec:
 
@@ -8,12 +8,29 @@
 | iGPU             | Intel® UHD Graphics                    |
 | RAM              | 16Gb                                   |
 | LAN              | Intel I219-V                           |
-| WiFi             | Intel(R) Dual Band Wireless AC 3165                     |
+| WiFi             | Intel(R) Dual Band Wireless AC 3165    |
 | Audio            | Realtek ALC294                         |
 | Storage          | NVME SSD 500Gb                         |
-| SMBIOS           | iMac20,2                             |
-| BootLoader       | OpenCore 0.8.8                        |
+| SMBIOS           | iMac20,2                               |
+| BootLoader       | OpenCore 0.8.8                         |
 
+---
+### Version 4
+
+**Changelog** 
+- **Opencore** 0.8.3 -> 0.8.8
+- **SMBIOS** iMac20,2 -> iMac19,1
+
+**Working HW**
+- [x] Dual Monitor (HDMI Output + Display Port Output)
+- [x] ALC294 & DP Audio Output
+- [x] ALC294 Audio Input
+- [x] All USB Ports
+- [x] Intel I219-V
+- [x] NVRAM
+- [x] WiFi
+- [x] Bluetooth
+- [x] Sensors
 ---
 ### Version 3
 
